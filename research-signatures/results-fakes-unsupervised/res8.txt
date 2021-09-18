@@ -1,0 +1,115 @@
+processing batch 1/55, eta 0:12:13
+processing batch 2/55, eta 0:11:17
+processing batch 3/55, eta 0:10:43
+processing batch 4/55, eta 0:10:24
+processing batch 5/55, eta 0:10:04
+processing batch 6/55, eta 0:09:44
+processing batch 7/55, eta 0:09:32
+processing batch 8/55, eta 0:09:18
+processing batch 9/55, eta 0:09:06
+processing batch 10/55, eta 0:08:52
+processing batch 11/55, eta 0:08:38
+processing batch 12/55, eta 0:08:23
+processing batch 13/55, eta 0:08:09
+processing batch 14/55, eta 0:07:55
+processing batch 15/55, eta 0:07:42
+processing batch 16/55, eta 0:07:29
+processing batch 17/55, eta 0:07:17
+processing batch 18/55, eta 0:07:04
+processing batch 19/55, eta 0:06:52
+processing batch 20/55, eta 0:06:39
+processing batch 21/55, eta 0:06:27
+processing batch 22/55, eta 0:06:15
+processing batch 23/55, eta 0:06:03
+processing batch 24/55, eta 0:05:52
+processing batch 25/55, eta 0:05:40
+processing batch 26/55, eta 0:05:28
+processing batch 27/55, eta 0:05:16
+processing batch 28/55, eta 0:05:05
+processing batch 29/55, eta 0:04:53
+processing batch 30/55, eta 0:04:42
+processing batch 31/55, eta 0:04:30
+processing batch 32/55, eta 0:04:19
+processing batch 33/55, eta 0:04:07
+processing batch 34/55, eta 0:03:56
+processing batch 35/55, eta 0:03:44
+processing batch 36/55, eta 0:03:33
+processing batch 37/55, eta 0:03:22
+processing batch 38/55, eta 0:03:11
+processing batch 39/55, eta 0:02:59
+processing batch 40/55, eta 0:02:48
+processing batch 41/55, eta 0:02:37
+processing batch 42/55, eta 0:02:25
+processing batch 43/55, eta 0:02:14
+processing batch 44/55, eta 0:02:03
+processing batch 45/55, eta 0:01:52
+processing batch 46/55, eta 0:01:40
+processing batch 47/55, eta 0:01:29
+processing batch 48/55, eta 0:01:18
+processing batch 49/55, eta 0:01:07
+processing batch 50/55, eta 0:00:55
+processing batch 51/55, eta 0:00:44
+processing batch 52/55, eta 0:00:33
+processing batch 53/55, eta 0:00:22
+processing batch 54/55, eta 0:00:11
+processing batch 55/55, eta 0:00:00
+1
+processing batch 1/6, eta 0:00:55
+processing batch 2/6, eta 0:00:44
+processing batch 3/6, eta 0:00:33
+processing batch 4/6, eta 0:00:22
+processing batch 5/6, eta 0:00:11
+2
+processing batch 1/6, eta 0:00:55
+processing batch 2/6, eta 0:00:44
+processing batch 3/6, eta 0:00:33
+processing batch 4/6, eta 0:00:22
+processing batch 5/6, eta 0:00:11
+3
+processing batch 1/6, eta 0:00:55
+processing batch 2/6, eta 0:00:44
+processing batch 3/6, eta 0:00:33
+processing batch 4/6, eta 0:00:22
+processing batch 5/6, eta 0:00:11
+4
+processing batch 1/6, eta 0:00:59
+processing batch 2/6, eta 0:00:47
+processing batch 3/6, eta 0:00:35
+processing batch 4/6, eta 0:00:23
+processing batch 5/6, eta 0:00:11
+5
+processing batch 1/6, eta 0:00:58
+processing batch 2/6, eta 0:00:45
+processing batch 3/6, eta 0:00:34
+processing batch 4/6, eta 0:00:22
+processing batch 5/6, eta 0:00:11
+       0         1
+uid               
+10   0.0  0.412713
+24   0.0  0.542328
+29   0.0  0.564196
+63   1.0  0.612829
+76   1.0  0.504267
+23   1.0  0.539407
+27   1.0  0.672035
+50   0.0  0.341631
+75   1.0  0.477168
+96   0.0  0.340963
+2    0.0  0.454593
+3    0.0  0.581064
+35   1.0  0.742935
+62   1.0  0.718440
+77   0.0  0.474560
+14   0.0  0.465915
+37   0.0  0.478512
+46   1.0  0.524876
+98   1.0  0.427479
+107  0.0  0.380602
+13   1.0  0.568814
+32   1.0  0.685441
+55   1.0  0.370669
+100  1.0  0.418524
+112  1.0  0.316777
+accuracy 0.680
+auc 0.688
+Done!

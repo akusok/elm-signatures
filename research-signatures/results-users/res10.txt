@@ -1,0 +1,79 @@
+processing batch 1/28, eta 0:05:39
+processing batch 2/28, eta 0:05:05
+processing batch 3/28, eta 0:04:47
+processing batch 4/28, eta 0:04:32
+processing batch 5/28, eta 0:04:19
+processing batch 6/28, eta 0:04:06
+processing batch 7/28, eta 0:03:54
+processing batch 8/28, eta 0:03:42
+processing batch 9/28, eta 0:03:31
+processing batch 10/28, eta 0:03:19
+processing batch 11/28, eta 0:03:08
+processing batch 12/28, eta 0:02:56
+processing batch 13/28, eta 0:02:45
+processing batch 14/28, eta 0:02:34
+processing batch 15/28, eta 0:02:23
+processing batch 16/28, eta 0:02:12
+processing batch 17/28, eta 0:02:01
+processing batch 18/28, eta 0:01:50
+processing batch 19/28, eta 0:01:39
+processing batch 20/28, eta 0:01:28
+processing batch 21/28, eta 0:01:17
+processing batch 22/28, eta 0:01:06
+processing batch 23/28, eta 0:00:55
+processing batch 24/28, eta 0:00:44
+processing batch 25/28, eta 0:00:33
+processing batch 26/28, eta 0:00:22
+processing batch 27/28, eta 0:00:10
+1
+processing batch 1/3, eta 0:00:22
+processing batch 2/3, eta 0:00:11
+processing batch 3/3, eta 0:00:00
+2
+processing batch 1/3, eta 0:00:21
+processing batch 2/3, eta 0:00:10
+processing batch 3/3, eta 0:00:00
+3
+processing batch 1/3, eta 0:00:22
+processing batch 2/3, eta 0:00:11
+processing batch 3/3, eta 0:00:00
+4
+processing batch 1/3, eta 0:00:22
+processing batch 2/3, eta 0:00:11
+processing batch 3/3, eta 0:00:00
+5
+processing batch 1/3, eta 0:00:21
+processing batch 2/3, eta 0:00:10
+processing batch 3/3, eta 0:00:00
+    top1  top3  top5  top10
+0      1     1     1      1
+1      1     1     1      1
+7      1     1     1      1
+46     1     1     1      1
+56     1     1     1      1
+23     1     1     1      1
+28     0     1     1      1
+40     0     1     1      1
+43     0     1     1      1
+72     1     1     1      1
+10     1     1     1      1
+24     1     1     1      1
+58     0     1     1      1
+59     1     1     1      1
+73     1     1     1      1
+3      1     1     1      1
+15     1     1     1      1
+39     1     1     1      1
+41     1     1     1      1
+65     1     1     1      1
+13     1     1     1      1
+18     1     1     1      1
+44     0     1     1      1
+69     1     1     1      1
+71     1     1     1      1
+top1     0.8
+top3     1.0
+top5     1.0
+top10    1.0
+dtype: float64
+Done!

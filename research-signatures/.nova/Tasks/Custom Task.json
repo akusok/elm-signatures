@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "python \"$1\""
+    }
+  },
+  "arguments" : [
+    "${File}"
+  ],
+  "identifier" : "6DC239EF-6008-4D7F-A020-699EE1BD1AEA",
+  "openLogOnRun" : "start"
+}
